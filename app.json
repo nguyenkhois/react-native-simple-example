@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "todos",
+    "name": "The simple React Native example",
     "description": "This project is really great.",
-    "slug": "todos",
+    "slug": "react-native-simple-example",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],
