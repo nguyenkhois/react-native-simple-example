@@ -16,7 +16,7 @@ export default StyleSheet.create({
     },
     bodyPart: {
         //flex: 2,
-        //height: layout.window.height - 50,
+        marginTop: 20,
         marginLeft: 10,
         marginRight: 10,
         marginBottom: 110
@@ -25,7 +25,6 @@ export default StyleSheet.create({
         //flex: 3,
         flexDirection: 'row',
         height: 50,
-        backgroundColor: 'steelblue',
         marginTop: 'auto',
         backgroundColor: colors.mainColor,
         alignItems: 'center',
@@ -46,7 +45,6 @@ export default StyleSheet.create({
         height: 40, 
         borderColor: 'gray', 
         borderWidth: 1,
-        marginTop: 20,
         marginBottom: 20,
         fontSize: 20,
         paddingLeft: 10
@@ -55,6 +53,11 @@ export default StyleSheet.create({
         marginBottom: 20,
         fontSize: 20
     },
+    mainTitle: {
+        fontSize: 15,
+        fontWeight: 'bold'
+    },
+    
     productItemContainer: {
         flexDirection: 'row',
         paddingBottom: 10,
@@ -72,4 +75,7 @@ export default StyleSheet.create({
         fontSize: 20,
         marginTop: 5
     },
+    aboutSection: {
+        marginBottom:20
+    }
 });
