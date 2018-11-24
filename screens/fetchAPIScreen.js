@@ -16,13 +16,6 @@ export default class FetchAPIScreen  extends React.Component {
     }
 
     async componentDidMount(){
-        await fetch(APIConfig.categories)
-            .then(response => response.json())
-            .then(data => {
-                this.setState({ categoryList: data });
-            })
-            .catch(error => this.setState({ errorInfo: error }));
-
         await fetch(APIConfig.products)
             .then(response => response.json())
             .then(data => {
@@ -32,12 +25,10 @@ export default class FetchAPIScreen  extends React.Component {
     }
 
     render() {
-        if (this.state.categoryList.length > 0 && this.state.productList.length > 0){
+        if (this.state.productList.length > 0){
             return (
 
                 <View>
-                    <Text>{this.state.productList.length}</Text>
-
                     {this.state.productList.map((product, index) => 
                         <View key={index} style={styles.productItemContainer}>
                             <Image source={{uri: APIConfig.imageURL + product.image.url}}
