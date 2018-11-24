@@ -13,7 +13,7 @@ export default class Header extends React.Component {
                 />
 
                 <View style={styles.header}>
-                    <Text style={styles.headerText}>TODOS LIST</Text>
+                    <Text style={styles.headerText}>THE SIMPLE EXAMPLE</Text>
                 </View>
             </View>
         );
