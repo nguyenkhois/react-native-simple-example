@@ -1,0 +1,542 @@
+[
+    {
+        "name": "Floribundaros",
+        "description": "Kompakt floribundaros om blommar rikligt hela sommaren med klasar av mörkt gula till aprikos blommor med lätta rosa anstrykning i mitten, medelstark doft.",
+        "price": 179,
+        "inStock": 89,
+        "categoryId": "5ba52b532c49d503a89deee3",
+        "_id": "5ba54a189e62d30e6d6f8ff3",
+        "createdAt": "2018-09-21T19:44:24.258Z",
+        "updatedAt": "2018-09-21T19:44:24.261Z",
+        "__v": 0,
+        "id": "5ba54a189e62d30e6d6f8ff3",
+        "image": {
+            "_id": "5ba54a189e62d30e6d6f8ff4",
+            "name": "HansestadtRostock_Klasbl_020_pw.png",
+            "sha256": "wqRo0LxlL3RoV65fCbvmPTUFrWRxqrgjWRrCNJNSkTM",
+            "hash": "737c41051f334dbbbe3f00aa9a9928ce",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "90.20",
+            "url": "/uploads/737c41051f334dbbbe3f00aa9a9928ce.png",
+            "provider": "local",
+            "related": [
+                "5ba54a189e62d30e6d6f8ff3"
+            ],
+            "createdAt": "2018-09-21T19:44:24.269Z",
+            "updatedAt": "2018-09-21T19:44:24.272Z",
+            "__v": 0,
+            "id": "5ba54a189e62d30e6d6f8ff4"
+        }
+    },
+    {
+        "name": "Klaseblommande rabattros",
+        "description": "Buskig rabattros som passar att plantera i grupper, som solitär, som häck eller i kruka. Fin som snittblomma.",
+        "price": 169,
+        "inStock": 123,
+        "categoryId": "5ba52b532c49d503a89deee3",
+        "_id": "5ba54a709e62d30e6d6f8ff6",
+        "createdAt": "2018-09-21T19:45:52.724Z",
+        "updatedAt": "2018-09-21T19:45:52.728Z",
+        "__v": 0,
+        "id": "5ba54a709e62d30e6d6f8ff6",
+        "image": {
+            "_id": "5ba54a709e62d30e6d6f8ff7",
+            "name": "solliden_slottsros.png",
+            "sha256": "jasdXnVSCV8wz1klLkVKvQSTyb526QKL2izuWGVBOzw",
+            "hash": "367ffbb11931496795a91dfb7cc937e0",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "90.15",
+            "url": "/uploads/367ffbb11931496795a91dfb7cc937e0.png",
+            "provider": "local",
+            "related": [
+                "5ba54a709e62d30e6d6f8ff6"
+            ],
+            "createdAt": "2018-09-21T19:45:52.733Z",
+            "updatedAt": "2018-09-21T19:45:52.737Z",
+            "__v": 0,
+            "id": "5ba54a709e62d30e6d6f8ff7"
+        }
+    },
+    {
+        "name": "Storblommig klätterros",
+        "description": "Klätterros med kraftigt, upprätt växtsätt. Passar att pantera vid väggar, plant och pergolor.",
+        "price": 229,
+        "inStock": 98,
+        "categoryId": "5ba52b532c49d503a89deee3",
+        "_id": "5ba54ab69e62d30e6d6f8ff9",
+        "createdAt": "2018-09-21T19:47:02.771Z",
+        "updatedAt": "2018-09-21T19:47:02.775Z",
+        "__v": 0,
+        "id": "5ba54ab69e62d30e6d6f8ff9",
+        "image": {
+            "_id": "5ba54ab69e62d30e6d6f8ffa",
+            "name": "Penny-Lane-Klatterros-2338-pw.png",
+            "sha256": "Ee-ae6oHPtquNe-1fDAs2rgGFIsi5YaB4NF6InlhPlM",
+            "hash": "23b516ee608b4cf396f20034e6e2b680",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "84.96",
+            "url": "/uploads/23b516ee608b4cf396f20034e6e2b680.png",
+            "provider": "local",
+            "related": [
+                "5ba54ab69e62d30e6d6f8ff9"
+            ],
+            "createdAt": "2018-09-21T19:47:02.781Z",
+            "updatedAt": "2018-09-21T19:47:02.783Z",
+            "__v": 0,
+            "id": "5ba54ab69e62d30e6d6f8ffa"
+        }
+    },
+    {
+        "name": "Storblommig rabattros",
+        "description": "Storblommig rabattros med välförgrenat, upprätt växtsätt. Plantera som solitär, i grupper och i kruka. Fin som snittblomma. Blommar rikligast i full sol.",
+        "price": 159,
+        "inStock": 110,
+        "categoryId": "5ba52b532c49d503a89deee3",
+        "_id": "5ba54afc9e62d30e6d6f8ffc",
+        "createdAt": "2018-09-21T19:48:12.560Z",
+        "updatedAt": "2018-09-21T19:48:12.563Z",
+        "__v": 0,
+        "id": "5ba54afc9e62d30e6d6f8ffc",
+        "image": {
+            "_id": "5ba54afc9e62d30e6d6f8ffd",
+            "name": "PascaliStorblom0554pwE2.png",
+            "sha256": "V-l4mSPOa480hFazkuSf8v2Px_hE5t6Ty+XYVBsxK54",
+            "hash": "94d7665d0dd445728cd8e4ce3c8539e3",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "88.06",
+            "url": "/uploads/94d7665d0dd445728cd8e4ce3c8539e3.png",
+            "provider": "local",
+            "related": [
+                "5ba54afc9e62d30e6d6f8ffc"
+            ],
+            "createdAt": "2018-09-21T19:48:12.569Z",
+            "updatedAt": "2018-09-21T19:48:12.571Z",
+            "__v": 0,
+            "id": "5ba54afc9e62d30e6d6f8ffd"
+        }
+    },
+    {
+        "name": "Klaseblommande rabattros",
+        "description": "Buskig rabattros som passar att plantera i grupper, som solitär, som häck eller i kruka. Fin som snittblomma.",
+        "price": 189,
+        "inStock": 45,
+        "categoryId": "5ba52b532c49d503a89deee3",
+        "_id": "5ba54b389e62d30e6d6f8fff",
+        "createdAt": "2018-09-21T19:49:12.381Z",
+        "updatedAt": "2018-09-21T19:49:12.384Z",
+        "__v": 0,
+        "id": "5ba54b389e62d30e6d6f8fff",
+        "image": {
+            "_id": "5ba54b389e62d30e6d6f9000",
+            "name": "schackenborg_slottsros.png",
+            "sha256": "4eW_av8iC5xNMVx4AksshxQBwPVhi4Y-yPoMuH6YtI0",
+            "hash": "f304d60f982140709dd5d3307ddfed8f",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "92.92",
+            "url": "/uploads/f304d60f982140709dd5d3307ddfed8f.png",
+            "provider": "local",
+            "related": [
+                "5ba54b389e62d30e6d6f8fff"
+            ],
+            "createdAt": "2018-09-21T19:49:12.390Z",
+            "updatedAt": "2018-09-21T19:49:12.400Z",
+            "__v": 0,
+            "id": "5ba54b389e62d30e6d6f9000"
+        }
+    },
+    {
+        "name": "Marktäckande ros",
+        "description": "Marktäckande buskros som passar att plantera som marktäckare, som solitär, som häck eller i kruka.",
+        "price": 149,
+        "inStock": 79,
+        "categoryId": "5ba52b532c49d503a89deee3",
+        "_id": "5ba54b769e62d30e6d6f9002",
+        "createdAt": "2018-09-21T19:50:14.414Z",
+        "updatedAt": "2018-09-21T19:50:14.416Z",
+        "__v": 0,
+        "id": "5ba54b769e62d30e6d6f9002",
+        "image": {
+            "_id": "5ba54b769e62d30e6d6f9003",
+            "name": "Rosa_Floribunda_Amber_Queen.png",
+            "sha256": "w1Esj3OQMjZ06fZJdUpGRW0mT8S-aobGQjfBu71eVLg",
+            "hash": "fdbf1e558f3c43e6b820abf390182db6",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "95.05",
+            "url": "/uploads/fdbf1e558f3c43e6b820abf390182db6.png",
+            "provider": "local",
+            "related": [
+                "5ba54b769e62d30e6d6f9002"
+            ],
+            "createdAt": "2018-09-21T19:50:14.422Z",
+            "updatedAt": "2018-09-21T19:50:14.424Z",
+            "__v": 0,
+            "id": "5ba54b769e62d30e6d6f9003"
+        }
+    },
+    {
+        "name": "Japanskt prydnadskörsbär",
+        "description": "Upprättväxande, kraftigt träd med kvastformad krona. Gröna blad med brunröd lyster och gulorange höstfärg. Översållas av rosa blommor på våren. Trivs bäst i djup, kalkrik, näringsrik och mullblandad jord. Fint solitärträd.",
+        "price": 599,
+        "inStock": 216,
+        "categoryId": "5ba54bad9e62d30e6d6f9005",
+        "_id": "5ba54c4e9e62d30e6d6f9006",
+        "createdAt": "2018-09-21T19:53:50.673Z",
+        "updatedAt": "2018-09-22T09:49:17.333Z",
+        "__v": 0,
+        "id": "5ba54c4e9e62d30e6d6f9006",
+        "image": {
+            "_id": "5ba54c4e9e62d30e6d6f9007",
+            "name": "120756.png",
+            "sha256": "ivttUeKfazvvK1FzEvj9MoxUgIVUF_lOWd5TibjhH4w",
+            "hash": "eb7779bb879c4df2b70504ad16f79803",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "39.38",
+            "url": "/uploads/eb7779bb879c4df2b70504ad16f79803.png",
+            "provider": "local",
+            "related": [
+                "5ba54c4e9e62d30e6d6f9006"
+            ],
+            "createdAt": "2018-09-21T19:53:50.681Z",
+            "updatedAt": "2018-09-21T19:53:50.683Z",
+            "__v": 0,
+            "id": "5ba54c4e9e62d30e6d6f9007"
+        }
+    },
+    {
+        "name": "Blodplommon",
+        "description": "Litet, väl förgrenat träd som passar på liten yta. Små, röda frukter på hösten. Bör beskäras för att få vacker form. Trivs i näringsrik, väldränerad jord.",
+        "price": 659,
+        "inStock": 66,
+        "categoryId": "5ba54bad9e62d30e6d6f9005",
+        "_id": "5ba54c839e62d30e6d6f9009",
+        "createdAt": "2018-09-21T19:54:43.487Z",
+        "updatedAt": "2018-10-08T21:11:18.563Z",
+        "__v": 0,
+        "id": "5ba54c839e62d30e6d6f9009",
+        "image": {
+            "_id": "5ba54c839e62d30e6d6f900a",
+            "name": "120757.png",
+            "sha256": "HHjVmu0Sjg54HwT2mbOuuQMKY0qlPXATmoOq51OBB5Q",
+            "hash": "7831617cc4544479a5467c099907d818",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "40.81",
+            "url": "/uploads/7831617cc4544479a5467c099907d818.png",
+            "provider": "local",
+            "related": [
+                "5ba54c839e62d30e6d6f9009"
+            ],
+            "createdAt": "2018-09-21T19:54:43.495Z",
+            "updatedAt": "2018-09-21T19:54:43.497Z",
+            "__v": 0,
+            "id": "5ba54c839e62d30e6d6f900a"
+        }
+    },
+    {
+        "name": "Dvärgsyren på stam",
+        "description": "Runda, glänsande blad. Många, doftande blommor. Blir fin i rabatt på liten tomt och även planterad i kruka.",
+        "price": 499,
+        "inStock": 83,
+        "categoryId": "5ba54bad9e62d30e6d6f9005",
+        "_id": "5ba54d0905b0f12663f3ad97",
+        "createdAt": "2018-09-21T19:56:57.211Z",
+        "updatedAt": "2018-09-21T19:56:57.220Z",
+        "__v": 0,
+        "id": "5ba54d0905b0f12663f3ad97",
+        "image": {
+            "_id": "5ba54d0905b0f12663f3ad98",
+            "name": "120748.png",
+            "sha256": "spTOfvss5J3IerbpUEzahRSdoizpiYUAxt0QubrFe9Y",
+            "hash": "f119ea0d769b49e3858d47a874021562",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "40.58",
+            "url": "/uploads/f119ea0d769b49e3858d47a874021562.png",
+            "provider": "local",
+            "related": [
+                "5ba54d0905b0f12663f3ad97"
+            ],
+            "createdAt": "2018-09-21T19:56:57.231Z",
+            "updatedAt": "2018-09-21T19:56:57.234Z",
+            "__v": 0,
+            "id": "5ba54d0905b0f12663f3ad98"
+        }
+    },
+    {
+        "name": "Katsura",
+        "description": "En- eller flerstammigt träd. Trivs i mullrik, fuktighetshållande jord på vindskyddad plats. Plantera som solitär och i grupper. Doftar nybakat på hösten.",
+        "price": 299,
+        "inStock": 46,
+        "categoryId": "5ba54bad9e62d30e6d6f9005",
+        "_id": "5ba54d3205b0f12663f3ad9a",
+        "createdAt": "2018-09-21T19:57:38.448Z",
+        "updatedAt": "2018-09-21T19:57:38.451Z",
+        "__v": 0,
+        "id": "5ba54d3205b0f12663f3ad9a",
+        "image": {
+            "_id": "5ba54d3205b0f12663f3ad9b",
+            "name": "katsura_1.png",
+            "sha256": "ys_qWH+tWyZR5sb6194ZAaZFPlr39mn7nncYP1xkHyo",
+            "hash": "e7e9117a561e40d8b7e2cc690b581288",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "89.84",
+            "url": "/uploads/e7e9117a561e40d8b7e2cc690b581288.png",
+            "provider": "local",
+            "related": [
+                "5ba54d3205b0f12663f3ad9a"
+            ],
+            "createdAt": "2018-09-21T19:57:38.458Z",
+            "updatedAt": "2018-09-21T19:57:38.460Z",
+            "__v": 0,
+            "id": "5ba54d3205b0f12663f3ad9b"
+        }
+    },
+    {
+        "name": "Perenn Ljung",
+        "description": "Utmärkande för sortgruppen 'Garden Girls' är de färgstarka knopparna, som lyser grant hela vintern. Ett trevligt inslag i höstkrukan. Kan friplanteras i kemiskt sur, inte för kraftig, sandblandad jord. Vid plantering i kruka fungerar vanlig planteringsjord bra. Beskäres på våren efter blomningen. Perenn.",
+        "price": 59,
+        "inStock": 266,
+        "categoryId": "5ba54e4305b0f12663f3ad9d",
+        "_id": "5ba54f0505b0f12663f3ad9e",
+        "createdAt": "2018-09-21T20:05:25.985Z",
+        "updatedAt": "2018-09-22T09:49:17.189Z",
+        "__v": 0,
+        "id": "5ba54f0505b0f12663f3ad9e",
+        "image": {
+            "_id": "5ba54f0505b0f12663f3ad9f",
+            "name": "15764_2.png",
+            "sha256": "JQDZZtQQsjTxbciqfj0EEtBmV9aUIlVFPtOlbgXjXpc",
+            "hash": "8540cb6c46be44c78f728a83125a0865",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "64.31",
+            "url": "/uploads/8540cb6c46be44c78f728a83125a0865.png",
+            "provider": "local",
+            "related": [
+                "5ba54f0505b0f12663f3ad9e"
+            ],
+            "createdAt": "2018-09-21T20:05:25.994Z",
+            "updatedAt": "2018-09-21T20:05:25.996Z",
+            "__v": 0,
+            "id": "5ba54f0505b0f12663f3ad9f"
+        }
+    },
+    {
+        "name": "Silvergirland",
+        "description": "I full sol eller halvskugga. Näringsrik, kalkhaltig och genomsläpplig jord. Klarar att torka. Silverglänsande grenar, nästan utan blad. Mycket vacker i höstplanterade krukor,där den vattnas försiktigt. Glöm inte att vattna krukor under tak. Står fin över vintern, svartnar i regel till våren. Betraktas som ettårig.",
+        "price": 49,
+        "inStock": 121,
+        "categoryId": "5ba54e4305b0f12663f3ad9d",
+        "_id": "5ba54f7d05b0f12663f3ada1",
+        "createdAt": "2018-09-21T20:07:25.276Z",
+        "updatedAt": "2018-09-22T09:49:17.299Z",
+        "__v": 0,
+        "id": "5ba54f7d05b0f12663f3ada1",
+        "image": {
+            "_id": "5ba54f7d05b0f12663f3ada2",
+            "name": "12889_3.png",
+            "sha256": "08ky2c_sURrSgZyfEH-P+YR+sflZVJlSy2NN7s3AaN4",
+            "hash": "5411a592a67c43fe9113a810a2abf9b6",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "60.20",
+            "url": "/uploads/5411a592a67c43fe9113a810a2abf9b6.png",
+            "provider": "local",
+            "related": [
+                "5ba54f7d05b0f12663f3ada1"
+            ],
+            "createdAt": "2018-09-21T20:07:25.285Z",
+            "updatedAt": "2018-09-21T20:07:25.287Z",
+            "__v": 0,
+            "id": "5ba54f7d05b0f12663f3ada2"
+        }
+    },
+    {
+        "name": "Höstaster",
+        "description": "Övervattna inte! Klipp bort visset efterhand. Lämplig som färgklick i samplanterade höstgrupper. Harmonierar med många höstblommor. Vattna försiktigt men glöm ej att vattna krukor under tak. Blommar flitigt tills frosten kommer. Kan friplanteras i rabatt. Perenn.",
+        "price": 29,
+        "inStock": 280,
+        "categoryId": "5ba54e4305b0f12663f3ad9d",
+        "_id": "5ba54fe705b0f12663f3ada4",
+        "createdAt": "2018-09-21T20:09:11.051Z",
+        "updatedAt": "2018-09-21T20:09:11.054Z",
+        "__v": 0,
+        "id": "5ba54fe705b0f12663f3ada4",
+        "image": {
+            "_id": "5ba54fe705b0f12663f3ada5",
+            "name": "aster-vit.png",
+            "sha256": "ms-gaitya3mqbZ2r-3ufJ3Kp7FxtUnOzXrL4IRxuFYg",
+            "hash": "168ebf11e98a42feae03428f2fa74dc5",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "72.21",
+            "url": "/uploads/168ebf11e98a42feae03428f2fa74dc5.png",
+            "provider": "local",
+            "related": [
+                "5ba54fe705b0f12663f3ada4"
+            ],
+            "createdAt": "2018-09-21T20:09:11.059Z",
+            "updatedAt": "2018-09-21T20:09:11.062Z",
+            "__v": 0,
+            "id": "5ba54fe705b0f12663f3ada5"
+        }
+    },
+    {
+        "name": "Bollkrysantemum",
+        "description": "De som planteras ut redan på sensommaren gödselvattnas en månads tid. Placera krukan var som helst men tänk på, att den som står under tak måste vattnas även i regnväder. Plantera den avblommade plantan fritt, så kan den komma tillbaka till nästa år. Blommar rikt, tål en frostknäpp.",
+        "price": 69,
+        "inStock": 126,
+        "categoryId": "5ba54e4305b0f12663f3ad9d",
+        "_id": "5ba5501c05b0f12663f3ada7",
+        "createdAt": "2018-09-21T20:10:04.582Z",
+        "updatedAt": "2018-10-08T21:11:18.439Z",
+        "__v": 0,
+        "id": "5ba5501c05b0f12663f3ada7",
+        "image": {
+            "_id": "5ba5501c05b0f12663f3ada8",
+            "name": "T2017_1605_Bollkryss_IMG_0203.png",
+            "sha256": "TW7WDR5l9l9FvBTx3pGJD69Pa0nhofsnmbbW_X6wshA",
+            "hash": "b54462c5bfb8451d8fa370cb624896b7",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "51.47",
+            "url": "/uploads/b54462c5bfb8451d8fa370cb624896b7.png",
+            "provider": "local",
+            "related": [
+                "5ba5501c05b0f12663f3ada7"
+            ],
+            "createdAt": "2018-09-21T20:10:04.590Z",
+            "updatedAt": "2018-09-21T20:10:04.592Z",
+            "__v": 0,
+            "id": "5ba5501c05b0f12663f3ada8"
+        }
+    },
+    {
+        "name": "Bollkrysantemum",
+        "description": "De som planteras ut redan på sensommaren gödselvattnas en månads tid. Placera krukan var som helst men tänk på, att den som står under tak måste vattnas även i regnväder. Plantera den avblommade plantan fritt, så kan den komma tillbaka till nästa år. Blommar rikt, tål en frostknäpp.",
+        "price": 69,
+        "inStock": 93,
+        "categoryId": "5ba54e4305b0f12663f3ad9d",
+        "_id": "5ba5504d05b0f12663f3adaa",
+        "createdAt": "2018-09-21T20:10:53.801Z",
+        "updatedAt": "2018-09-21T20:10:53.804Z",
+        "__v": 0,
+        "id": "5ba5504d05b0f12663f3adaa",
+        "image": {
+            "_id": "5ba5504d05b0f12663f3adab",
+            "name": "T2017_1601_Bollkryss_IMG_0199_1.png",
+            "sha256": "du9TLYaoAZmkxpTB8_agwugXYj2mOREZL2f-X9lqVaE",
+            "hash": "64c4d01bf00e4e25a5f576d259ff74a6",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "55.93",
+            "url": "/uploads/64c4d01bf00e4e25a5f576d259ff74a6.png",
+            "provider": "local",
+            "related": [
+                "5ba5504d05b0f12663f3adaa"
+            ],
+            "createdAt": "2018-09-21T20:10:53.810Z",
+            "updatedAt": "2018-09-21T20:10:53.813Z",
+            "__v": 0,
+            "id": "5ba5504d05b0f12663f3adab"
+        }
+    },
+    {
+        "name": "Kruka Sanato",
+        "description": "Stilren kruka i matt ljusgrå. Mått: D: 29 cm - H: 30 cm",
+        "price": 249,
+        "inStock": 160,
+        "categoryId": "5ba5508305b0f12663f3adad",
+        "_id": "5ba550e005b0f12663f3adae",
+        "createdAt": "2018-09-21T20:13:20.865Z",
+        "updatedAt": "2018-09-21T20:15:16.712Z",
+        "__v": 0,
+        "id": "5ba550e005b0f12663f3adae",
+        "image": {
+            "_id": "5ba5515405b0f12663f3adb4",
+            "name": "T2017_1653_Kruka_232018.png",
+            "sha256": "MK4ib4k8ShOqe7GspO_RBpqxcyE53Ugg8hvHa6nahio",
+            "hash": "f371430945ca4b3887d3ade561067712",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "44.79",
+            "url": "/uploads/f371430945ca4b3887d3ade561067712.png",
+            "provider": "local",
+            "related": [
+                "5ba550e005b0f12663f3adae"
+            ],
+            "createdAt": "2018-09-21T20:15:16.725Z",
+            "updatedAt": "2018-09-21T20:15:16.727Z",
+            "__v": 0,
+            "id": "5ba5515405b0f12663f3adb4"
+        }
+    },
+    {
+        "name": "Kruka Peppe",
+        "description": "Kruka i en randstruktur, matt vit. Finns i två storlekar 11,5 cm och 13,5 cm.",
+        "price": 29.6,
+        "inStock": 323,
+        "categoryId": "5ba5508305b0f12663f3adad",
+        "_id": "5ba5511205b0f12663f3adb1",
+        "createdAt": "2018-09-21T20:14:10.759Z",
+        "updatedAt": "2018-09-22T09:49:17.335Z",
+        "__v": 0,
+        "id": "5ba5511205b0f12663f3adb1",
+        "image": {
+            "_id": "5ba5515f05b0f12663f3adb6",
+            "name": "T2016_1360_IMG_5575_1.png",
+            "sha256": "t-4niInk4cSaehAQLdHrozvneGKWKzntwTeuD4sCWZY",
+            "hash": "5a48fff28a8b4419aa7f33accfb030f5",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "26.63",
+            "url": "/uploads/5a48fff28a8b4419aa7f33accfb030f5.png",
+            "provider": "local",
+            "related": [
+                "5ba5511205b0f12663f3adb1"
+            ],
+            "createdAt": "2018-09-21T20:15:27.722Z",
+            "updatedAt": "2018-09-21T20:15:27.724Z",
+            "__v": 0,
+            "id": "5ba5515f05b0f12663f3adb6"
+        }
+    },
+    {
+        "name": "Kruka Julia",
+        "description": "Kkruka i terrakotta med patina. D: 13 cm - H: 10 cm.",
+        "price": 49.9,
+        "inStock": 120,
+        "categoryId": "5ba5508305b0f12663f3adad",
+        "_id": "5ba551ce05b0f12663f3adb8",
+        "createdAt": "2018-09-21T20:17:18.149Z",
+        "updatedAt": "2018-09-21T20:17:18.152Z",
+        "__v": 0,
+        "id": "5ba551ce05b0f12663f3adb8",
+        "image": {
+            "_id": "5ba551ce05b0f12663f3adb9",
+            "name": "243932.png",
+            "sha256": "-ZcswLh2eK9cvVtb8Nu1GXXKPBvwX5bWxtSo3zBDvLo",
+            "hash": "3b6fa1e64c994ba886d7b59facd51b84",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": "49.31",
+            "url": "/uploads/3b6fa1e64c994ba886d7b59facd51b84.png",
+            "provider": "local",
+            "related": [
+                "5ba551ce05b0f12663f3adb8"
+            ],
+            "createdAt": "2018-09-21T20:17:18.158Z",
+            "updatedAt": "2018-09-21T20:17:18.160Z",
+            "__v": 0,
+            "id": "5ba551ce05b0f12663f3adb9"
+        }
+    }
+]

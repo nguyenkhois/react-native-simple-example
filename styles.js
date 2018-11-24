@@ -54,5 +54,22 @@ export default StyleSheet.create({
     listItem: {
         marginBottom: 20,
         fontSize: 20
-    }
+    },
+    productItemContainer: {
+        flexDirection: 'row',
+        paddingBottom: 10,
+        marginBottom: 20,
+        borderColor: '#E8E8E6',
+        borderBottomWidth: 1,
+    },
+    productItemName: {
+        fontWeight: '700',
+        fontSize: 20,
+        marginBottom: 10
+    },
+    productItemPrice: {
+        fontWeight: '700',
+        fontSize: 20,
+        marginTop: 5
+    },
 });

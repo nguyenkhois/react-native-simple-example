@@ -6,6 +6,7 @@ import Header from './components/header';
 import Footer from './components/footer';
 
 import HomeScreen from './screens/homeScreen';
+import FetchAPIScreen from './screens/fetchAPIScreen';
 import AboutScreen from './screens/aboutScreen';
 
 import styles from './styles';
@@ -20,6 +21,7 @@ export default class App extends React.Component {
                     <View style={styles.bodyPart}>
                         <ScrollView showsVerticalScrollIndicator={false}>
                             <Route exact path="/" component={HomeScreen} />
+                            <Route path="/fetch" component={FetchAPIScreen} />
                             <Route path="/about" component={AboutScreen} />
                         </ScrollView>
                     </View>

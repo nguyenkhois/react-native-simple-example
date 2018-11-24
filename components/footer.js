@@ -10,7 +10,11 @@ export default class Footer extends React.Component {
         return(
             <View style={styles.bottomPart}>
                 <Link to="/" underlayColor="#f0f4f7">
-                    <Text>Home</Text>
+                    <Text>Basic</Text>
+                </Link>
+
+                <Link to="/fetch" underlayColor="#f0f4f7">
+                    <Text>Fetch API</Text>
                 </Link>
 
                 <Link to="/about" underlayColor="#f0f4f7">
